@@ -52,6 +52,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\AltiumLL\PHE426HR8100JR06L2.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VBOQGNTN
+
+[Document2]
+DocumentPath=..\..\..\AltiumLL\1140101KRC.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YJYRNRJI
+
+[Document3]
 DocumentPath=..\..\..\..\..\Public\Documents\Altium\UPS Online (Double Conversion)\NUCLEO_L476RG_Morpho.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -68,7 +102,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FLRMXMJT
 
-[Document2]
+[Document4]
+DocumentPath=..\..\..\AltiumLL\PHE426HR8100JR06L2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DFKSWOES
+
+[Document5]
+DocumentPath=..\..\..\AltiumLL\1140101KRC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document6]
 DocumentPath=..\..\..\..\..\Public\Documents\Altium\UPS Online (Double Conversion)\NUCLEO_L476RGT6_MORPHO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DOFWJWCC
 
-[Document3]
+[Document7]
 DocumentPath=DC-LAB-UPS-230V.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGDJIXXQ
 
-[Document4]
+[Document8]
 DocumentPath=Input_Stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEJWMVXV
 
-[Document5]
+[Document9]
 DocumentPath=Output_Stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTVPQLAX
 
-[Document6]
+[Document10]
 DocumentPath=Control_Stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
